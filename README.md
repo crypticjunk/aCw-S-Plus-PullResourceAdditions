@@ -12,6 +12,7 @@ The especially for the aCw Extinction Core Servers edited list is as short as po
 The file "Overview_DONT_USE_TO_COPYnPASTE.txt" shows all entries in readable formatting.
 
 
+_________________________
 Sources of my research:
 https://steamcommunity.com/workshop/filedetails/discussion/731604991/343786746007384809/
 https://steamcommunity.com/workshop/filedetails/discussion/731604991/3277925755440390079/ (Thanks to Geicorules for the detailed list)
